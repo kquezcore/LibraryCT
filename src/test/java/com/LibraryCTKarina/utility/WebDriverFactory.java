@@ -1,4 +1,4 @@
-package com.LibraryCT.utility;
+package com.LibraryCTKarina.utility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
